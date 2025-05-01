@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Aurora is a VST3/AU audio visualizer for Windows and macOS which brings frequency-based coloured waveforms similar to popular DJ software (i.e Rekordbox, Traktor, Serato) to real-time Digital Audio Workstations. <br><br>⚡️ Aurora will be publicly available soon!<br><br>Written in C++ using JUCE framework.</p>
+Aurora is a VST3/AU audio visualizer for Windows and macOS which brings frequency-based coloured waveforms similar to popular DJ software (i.e Rekordbox, Traktor, Serato) to real-time Digital Audio Workstations. <br><br>⚡️ Aurora will be publicly available soon!<br><br>Written in C++ using JUCE framework.
 
 ###
 
