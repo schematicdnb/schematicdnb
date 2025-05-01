@@ -50,6 +50,6 @@
 
 ###
 
-<p align="left">This To Do app was my first foray into React. It is designed with a focus on functional minimalism: necessary features and intuitive control without  bloat.<br><br>👀 [Live Demo]( https://dandubois.ca/todo/)<br>🔗 [GitHub Repo]( https://github.com/schematicdnb/React-ToDo-List)</p>
+This To Do app was my first foray into React. It is designed with a focus on functional minimalism: necessary features and intuitive control without  bloat.<br><br>👀 [Live Demo]( https://dandubois.ca/todo/)<br>🔗 [GitHub Repo]( https://github.com/schematicdnb/React-ToDo-List)
 
 ###
