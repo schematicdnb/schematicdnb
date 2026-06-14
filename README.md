@@ -26,30 +26,12 @@
 
 ###
 
-<h2 align="center">Aurora</h2>
+## Aurora
 
-###
+DJ-style frequency-coloured waveforms for your DAW. A VST3/AU plugin for Windows and macOS, built with JUCE.
 
-<div align="center">
-  <img height="400" src="https://dandubois.ca/aurora.png"  />
-</div>
+https://github.com/schematicdnb/Aurora
 
-###
+https://schematicsound.com/aurora
 
-Aurora is a VST3/AU audio visualizer for Windows and macOS which brings frequency-based coloured waveforms similar to popular DJ software (i.e Rekordbox, Traktor, Serato) to real-time Digital Audio Workstations. <br><br>⚡️ Try/Buy: https://schematicsound.com/aurora/<br><br>Written in C++ using JUCE framework.
-
-###
-
-<h2 align="center">To Do</h2>
-
-###
-
-<div align="center">
-  <img height="325" src="https://dandubois.ca/todogif.gif"  />
-</div>
-
-###
-
-This To Do app was my first foray into React. It is designed with a focus on functional minimalism: necessary features and intuitive control without  bloat.<br><br>👀 [Live Demo]( https://dandubois.ca/todo/)<br>🔗 [GitHub Repo]( https://github.com/schematicdnb/React-ToDo-List)
-
-###
+![Aurora main interface](https://i0.wp.com/schematicsound.com/wp-content/uploads/2025/05/Screenshot-2025-05-28-at-12.23.52%E2%80%AFPM-e1748449762516.png?resize=540%2C308&ssl=1)
